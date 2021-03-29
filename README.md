@@ -1,10 +1,10 @@
 ### Hi there 👋
 ### Pronouns: 💃🏽 she/her
 
-#### - 🔭 Check out my blog: www.asialakay.net
-#### - 🌱 Currently learning C#, ASP.NET Core, JavaScript, Node.JS, AWS, Azure, Solidity
-#### - 👯 Intersted in collaborating on Hack-a-thons
-#### - 🤔 I’m looking for help with Node.JS
+#### 🔭 Check out my blog: www.asialakay.net
+#### 🌱 Currently learning C#, ASP.NET Core, JavaScript, Node.JS, AWS, Azure, Solidity
+#### 👯 Intersted in collaborating on Hack-a-thons
+#### 🤔 I’m looking for help with Node.JS
 ##### 🌐 Discord: AsiaK#3350
 ##### Thanks for stopping by! - AsiaK❤️ 
 
