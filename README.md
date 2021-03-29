@@ -1,9 +1,9 @@
 ### Hi there 👋
 ### Pronouns: 💃🏽 she/her
 
-#### - 🔭 I’m currently working on www.asialakay.net
-#### - 🌱 I’m currently learning C#, ASP.NET Core, JavaScript, Node.JS, AWS, Azure, Solidity
-#### - 👯 I’m looking to collaborate on Hack-a-thons
+#### - 🔭 Check out my blog: www.asialakay.net
+#### - 🌱 Currently learning C#, ASP.NET Core, JavaScript, Node.JS, AWS, Azure, Solidity
+#### - 👯 Intersted in collaborating on Hack-a-thons
 #### - 🤔 I’m looking for help with Node.JS
 ##### 🌐 Discord: AsiaK#3350
 ##### Thanks for stopping by! - AsiaK❤️ 
