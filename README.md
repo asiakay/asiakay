@@ -1,6 +1,5 @@
 ### Hi there 👋
 ### Pronouns: 💃🏽 she/her
-
 #### 🔭 Check out my blog: www.asialakay.net
 #### 🌱 Currently learning C#, ASP.NET Core, JavaScript, Node.JS, AWS, Azure, Solidity
 #### 👯 Intersted in collaborating on Hack-a-thons
