@@ -1,7 +1,7 @@
 ### Hi there 👋, My name is Asia. Welcome to my Github Page! Thanks for taking the time to explore!
 
 - 👩🏿‍💻 In 2020, Here is where I started documenting my technical progress towards becoming a UI/UX focused Software Engineer during a 10 week bootcamp.
-- 🌱 Thanks to a new computer, time, and internet access, growing a tech stack knowldege base (**C#, .NET, Node.JS, React, Next & Express**) became possible.
+- 🌱 Thanks to a new computer, time, and internet access, growing a tech stack knowledege base (**C#, .NET, Node.JS, React, Next & Express**) became possible.
 - 🔭 Further, I've had the fortune of independently exploring Cloud technologies and deployments to **Azure, AWS, Heroku, Vercel, & Google Cloud**. 
 - 🥳 At the moment, I’m excited to start contributing to **Open Source** projects while implementing **Figma, MongoDB, Docker, Reach, & Solidity, GraphQL, CI/CD & Kubernetes** into my work flow.
 
