@@ -3,7 +3,7 @@
 ### 2 months into quarantine, I started learning about version control, cloning and forking repositories, and making my first commits studying at a fulltime C#, project-based, Software Development Bootcamp. 
 #### If you are here because, you found my application for a job interview:
 1. Thanks for your time. And thank you for considering me.  
-2. If you find that my skills and personality might fit the job's function and company culture, I'd love to hear from you to about next steps.  
+2. If you find that my skills and personality might fit the job's function and company culture, I'd love to hear from you about next steps.  
 
 
 
