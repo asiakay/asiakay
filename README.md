@@ -1,38 +1,32 @@
-### 😊 Hello... Welcome to my Github Profile! 
-## You can call me Asia. 
-### 2 months into quarantine, I started learning about version control, cloning and forking repositories, and making my first commits studying at a fulltime C#, project-based, Software Development Bootcamp. 
-#### If you are here because, you found my application for a job interview:
-1. Thanks for your time. And thank you for considering me.  
-2. If you find that my skills and personality might fit the job's function and company culture, I'd love to hear from you about next steps.  
+### 😊 Hello... My Name is Asia. Welcome to my Github! 
+
+#### If you are here because, you saw a potentially good match from my application for a job interview:
+1. Thanks for your time. And thank you for your consideration.  
+2. Let's have a conversation. Feel free to email me at asialakay@gmail.com  
+3. I'd love to learn more about you. If possible, please include links to your website, linkedin profile, and social media.
 
 
+- 👩🏿‍💻 In 2020, I started my GitHub for keeping track of projects related to Software Engineering with C#. While documenting my technical development, I learned about UX/UI, design thinking and how it applies to product development.
+ 
+- 🌱 I'm proud of the fact that my tech stack knowledege base has expanded to include **C#, .NET, JavaScript, Node.JS, React, Express, Gatsby, GraphQL and Figma**
 
-- 👩🏿‍💻 In 2020, Here is where I started documenting my technical progress towards becoming a UI/UX focused Software Engineer during a 10 week bootcamp.
-- 🌱 Thanks to a new computer, time, and internet access, growing a tech stack knowledege base (**C#, .NET, Node.JS, React, Next & Express**) became possible.
-- 🔭 Further, I've had the fortune of independently exploring Cloud technologies and deployments to **Azure, AWS, Heroku, Vercel, & Google Cloud**. 
-- 🥳 At the moment, I’m excited to start contributing to **Open Source** projects while implementing **Figma, MongoDB, Docker, Reach, & Solidity, GraphQL, CI/CD & Kubernetes** into my work flow.
+- 🔭 Further, I've been exploring Cloud technologies with deployments to **Azure, AWS, Heroku, Vercel, & Google Cloud**.
+ 
+- 🥳 At the moment, I’m excited to start contributing to **Open Source** projects while integrating **MongoDB, Docker, Reach & Solidity, CI/CD & Kubernetes** into my work flow.
 
-#### 👀 Check out my blog, [www.asialakay.net](http://www.asialakay.net) if you're interested in reading about: 
-
-Why I decided to transition from aspiring Music Producer / Gig & Warehouse worker to UI/UX Software Engineer during quarantine.
-Additionally, through the posts, you'll get a glimpse into my personal perspective on topics of interest including:
-
-    - Decentralized & Emerging Technology
-    - Mental Health and Wellness
-
-
-    - Current Events
-    - Cryptocurrency
-    - Bitcoin
-    - Fashion
-    - Defi
-    - NFT's 
-    - Music
-    - and More......  
-
+#### 👀 Check out my blog, [asialakay.net](https://www.asialakay.net)] where I post about:
+- Black Owned Business & Social Entrepreneurship
+- Current Events
+- Art, Entertainment, Fashion, and Music
+- Diversity in Tech
+- Mental Health and Wellness
+- Bitcoin, Crypto, Defi, NFT's 
+- Decentralized and Emerging Tech News
+   
 ##### 🌐 Follow my socials, to get notified about news and events, or to get in touch: 
-(add steemit https://signup.steemit.com/#source=condenser|index)
-- [Linkedin](https://www.linkedin.com/in/asia-%E2%80%9Casialakay%E2%80%9D-grady-669762b3/) 
+- [Linkedin](https://www.linkedin.com/in/asia-lakay-grady-669762b3/) 
 - Twitter: [@asialakay](https://www.twitter.com/asialakay) 
+- [Twitch](http://www.twitch.com/bb_fabbliss)
+- [Fanbase](https://www.fanbase.app/bb_fabbliss)
 - Discord: [AsiaK#3350](https://discordapp.com/users/724987979973525604/)
 🌴AsiaK💃🏽
