@@ -14,7 +14,7 @@
  
 - 🥳 At the moment, I’m excited to start contributing to **Open Source** projects while integrating **MongoDB, Docker, Reach & Solidity, CI/CD & Kubernetes** into my work flow.
 
-#### 👀 Check out my blog, [asialakay.net](https://www.asialakay.net)where I post about:
+#### 👀 Check out my blog, [asialakay.net](https://www.asialakay.net) where I post about:
 - Black Owned Business & Social Entrepreneurship
 - Current Events
 - Art, Entertainment, Fashion, and Music
