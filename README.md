@@ -1,7 +1,6 @@
 ### 😊 Hello... My Name is Asia. Welcome to my Github! 
 
-#### If you are here because, you saw a potentially good match from my application for a job interview:
-1. Thanks for your time. And thank you for your consideration.  
+1. Thanks for your time. And thank you for your attention.  
 2. Let's have a conversation. Feel free to email me at asialakay@gmail.com  
 3. I'd love to learn more about you. If possible, please include links to your website, linkedin profile, and social media.
 
