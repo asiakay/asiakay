@@ -1,6 +1,4 @@
-### 😊 Hello... My Name is Asia. Welcome to my Github! 
-
-[Mindful MOTIVATIONAL QUOTE GENERATOR](https://asiakay.github.io/quoteGenerator/)
+### 😌 Welcome... [Mindful MOTIVATIONAL QUOTE GENERATOR](https://asiakay.github.io/quoteGenerator/)
 
 
 - 👩🏿‍💻 In 2020, I started my GitHub for keeping track of projects related to Software Engineering with C#. While documenting my technical development, I learned about UX/UI, design thinking and how it applies to product development.
