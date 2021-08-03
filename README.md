@@ -1,8 +1,6 @@
 ### 😊 Hello... My Name is Asia. Welcome to my Github! 
 
-1. Thanks for your time. And thank you for your attention.  
-2. Let's have a conversation. Feel free to email me at asialakay@gmail.com  
-3. I'd love to learn more about you. If possible, please include links to your website, linkedin profile, and social media.
+[Mindful MOTIVATIONAL QUOTE GENERATOR](https://asiakay.github.io/quoteGenerator/)
 
 
 - 👩🏿‍💻 In 2020, I started my GitHub for keeping track of projects related to Software Engineering with C#. While documenting my technical development, I learned about UX/UI, design thinking and how it applies to product development.
