@@ -1,8 +1,7 @@
 ### 😌 Welcome... 
 
-New Updates* [Mindful MOTIVATIONAL QUOTE GENERATOR](https://asiakay.github.io/quoteGenerator/)
-
-
+New Updates* 
+Need a boost of positive energy? [Visit myMindset](https://asiakay.github.io/quoteGenerator/), The Mindful Motivational Random Quote Machine.
 
 
 - 👩🏿‍💻 In 2020, I started my GitHub for keeping track of projects related to Software Engineering with C#. While documenting my technical development, I learned about UX/UI, design thinking and how it applies to product development.
