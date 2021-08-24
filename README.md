@@ -25,9 +25,7 @@ New Updates* [Mindful MOTIVATIONAL QUOTE GENERATOR](https://asiakay.github.io/qu
 ##### 🌐 Follow my socials, to get notified about news and events, or to get in touch: 
 - [Linkedin](https://www.linkedin.com/in/asia-lakay-grady-669762b3/) 
 - Twitter: [@asialakay](https://www.twitter.com/asialakay) 
-- [Twitch](http://www.twitch.com/bb_fabbliss)
 - [Fanbase](https://www.fanbase.app/bb_fabbliss)
-- Discord: [AsiaK#3350](https://discordapp.com/users/724987979973525604/)
 > 🌴AsiaK💃🏽
 
 
