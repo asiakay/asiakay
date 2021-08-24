@@ -3,6 +3,8 @@
 New Updates* [Mindful MOTIVATIONAL QUOTE GENERATOR](https://asiakay.github.io/quoteGenerator/)
 
 
+
+
 - 👩🏿‍💻 In 2020, I started my GitHub for keeping track of projects related to Software Engineering with C#. While documenting my technical development, I learned about UX/UI, design thinking and how it applies to product development.
  
 - 🌱 I'm proud of the fact that my tech stack knowledege base has expanded to include **C#, .NET, JavaScript, Node.JS, React, Express, Gatsby, GraphQL and Figma**
@@ -27,3 +29,6 @@ New Updates* [Mindful MOTIVATIONAL QUOTE GENERATOR](https://asiakay.github.io/qu
 - [Fanbase](https://www.fanbase.app/bb_fabbliss)
 - Discord: [AsiaK#3350](https://discordapp.com/users/724987979973525604/)
 > 🌴AsiaK💃🏽
+
+
+> Like my avatar? It was created with the [avataaars generator](https://getavataaars.com/?avatarStyle=Transparent&clotheColor=Gray02&clotheType=ShirtScoopNeck&eyeType=Default&eyebrowType=Default&hairColor=Black&mouthType=Default&skinColor=DarkBrown&topType=LongHairDreads). For more info about the creators, development and codebase, [click here](https://github.com/fangpenlin/avataaars-generator) to visit the project's github repo.
