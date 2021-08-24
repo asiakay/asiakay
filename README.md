@@ -1,7 +1,7 @@
 ### 😌 Welcome... 
 
-New Updates*\ 
-- Aug. 2021\ 
+
+#### Aug. 2021
 Need a boost of positive energy? [Visit myMindset](https://asiakay.github.io/quoteGenerator/), The Mindful Motivational Random Quote Machine.
 
 
