@@ -1,7 +1,9 @@
-### 😌 Welcome... 
+### Hello 🌎 #### 
 
+- Sept. 2021
+[NarrationIsLiberation.com](https://www.NarrationIsLiberation.com) - Boston's newest residency, a live event with Featured Artists, Poetry Open Mic, Live Backing Band & DJ - Tickets available now through October 3rd, 2021. 
 
-#### Aug. 2021
+- Aug. 2021
 Need a boost of positive energy? [Visit myMindset](https://asiakay.github.io/quoteGenerator/), The Mindful Motivational Random Quote Machine.
 
 
