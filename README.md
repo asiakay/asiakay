@@ -23,7 +23,7 @@ Need a boost of positive energy? [Visit myMindset](https://asiakay.github.io/quo
 - Bitcoin, Crypto, Defi, NFT's 
 - Open-Source, Distributed and Emerging Tech News
    
-##### 🌐 [https//www.almighty.link/asiak](Click here) to connect through social media.
+##### 🌐 [Click here](https//www.almighty.link/asiak) to connect through social media.
 
 > 🌴AsiaK💃🏽
 
