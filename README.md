@@ -28,4 +28,3 @@ Need a boost of positive energy? [Visit myMindset](https://asiakay.github.io/quo
 > 🌴AsiaK💃🏽
 
 
-> Like my avatar? It was created with the [avataaars generator](https://getavataaars.com/?avatarStyle=Transparent&clotheColor=Gray02&clotheType=ShirtScoopNeck&eyeType=Default&eyebrowType=Default&hairColor=Black&mouthType=Default&skinColor=DarkBrown&topType=LongHairDreads). For more info about the creators, development and codebase, [click here](https://github.com/fangpenlin/avataaars-generator) to visit the project's github repo.
