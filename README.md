@@ -1,8 +1,8 @@
 ### Hello 🌎 #### 
 
 - Feb. 2022 
-Need help saving money and taking control of your money? 
-  - Join the Financial Success Challenge  
+Tired of living paycheck to paycheck?  
+  - Join the Financial Success Challenge (under construction)  
   - Build a personal savings and investment plan with my [Savings and Investment Calculator](https://asiakay.github.io/WhirlwindConfusedInterchangeability/). 
 
 - Aug. 2021
