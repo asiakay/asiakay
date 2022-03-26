@@ -2,12 +2,17 @@
 
 - Mar. 2022 || Check out some of the projects that I am working on a.k.a. building in public! 
 
+#### Need a boost of positive energy? ####
+ - [Visit myMindset](https://asiakay.github.io/quoteGenerator/), The Mindful Motivational Random Quote Machine.
+
+#### Looking for a thing of beauty? ####
+ - [Art Photography by Asia K](https://asiakay.github.io/artphotography/) is my first gallery of photography NFTs. The collection features things of beauty in and around Boston that caught my eye, framed in perspective.  
+
 #### Tired of living paycheck to paycheck? 💸 ####  
   - [11 Day Financial Success Challenge](https://asiakay.github.io/https-PopularPreciousScriptinglanguages/) Kickstart your path to learning more about how to make your money work for you and consider joining. 
   - [Savings and Investment Calculator](https://asiakay.github.io/WhirlwindConfusedInterchangeability/) Calculate your custom personal savings and investment plan based on your current weekly income.  
 
-- Aug. 2021
-Need a boost of positive energy? [Visit myMindset](https://asiakay.github.io/quoteGenerator/), The Mindful Motivational Random Quote Machine.
+
 
 
 - 👩🏿‍💻 In 2020, I started my GitHub for keeping track of projects related to Software Engineering with C#. In the process of documenting the technical progress I was starting to make when in regards to software engineering, I became passionate about the best practices for developing projects from the User Experience. Going down this road gave me a word for the impact I had always wanted to achive through learning audio engineering. That word was design thinking. 
