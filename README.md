@@ -1,7 +1,8 @@
 ### Hello 🌎 #### 
 
 - Mar. 2022 || Check out some of the projects that I am working on a.k.a. building in public! 
-Tired of living paycheck to paycheck?  
+
+#### Tired of living paycheck to paycheck? 💸 ####  
   - [11 Day Financial Success Challenge](https://asiakay.github.io/https-PopularPreciousScriptinglanguages/) Kickstart your path to learning more about how to make your money work for you and consider joining. 
   - [Savings and Investment Calculator](https://asiakay.github.io/WhirlwindConfusedInterchangeability/) Calculate your custom personal savings and investment plan based on your current weekly income.  
 
