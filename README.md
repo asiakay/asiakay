@@ -3,7 +3,7 @@
 - Feb. 2022 
 Tired of living paycheck to paycheck?  
   - Join the Financial Success Challenge (under construction)  
-  - Build a personal savings and investment plan with my [Savings and Investment Calculator](https://asiakay.github.io/WhirlwindConfusedInterchangeability/). 
+  - Build a personal savings and investment plan with my [Savings and Investment Calculator](https://asiakay.github.io/WhirlwindConfusedInterchangeability/). Note - this web application is for entertainment purposes only... Not financial advice. 
 
 - Aug. 2021
 Need a boost of positive energy? [Visit myMindset](https://asiakay.github.io/quoteGenerator/), The Mindful Motivational Random Quote Machine.
