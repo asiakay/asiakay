@@ -22,7 +22,7 @@
   - how to create a GitHub account 
   - how to fork and clone repositories, or archives of code
   - basic git commands including:
-   - how to make sure that Git tracks your contributions to the main repository // `git config`
+   -- how to make sure that Git tracks your contributions to the main repository // `git config`
    - how to initialize a local repository to define the starting point for recording changes to the code
    - collaborate with a team to test features on branches, or offshoots, of the main archive.
    - create pull requests to request remote changes on a before local changes be integrated into the main branch that all members of the remote team will be working on. 
