@@ -16,9 +16,23 @@
 
 
 
-- 👩🏿‍💻 In 2020, I started my GitHub for keeping track of projects related to Software Engineering with C#. In the process of documenting the technical progress I was starting to make when in regards to software engineering, I became passionate about the best practices for developing projects from the User Experience. Going down this road gave me a word for the impact I had always wanted to achive through learning audio engineering. That word was design thinking. 
+- 👩🏿‍💻 In 2020, I attended a nine-week software engineering bootcamp to learn software engineering. Through the bootcamp, I learned:
+  - how to access the command line interface, or CLI
+  - how to install software at the CLI
+  - how to create a GitHub account 
+  - how to fork and clone repositories, or archives of code
+  - basic git commands including:
+   - how to make sure that Git tracks your contributions to the main repository // `git config`
+   - how to initialize a local repository to define the starting point for recording changes to the code
+   - collaborate with a team to test features on branches, or offshoots, of the main archive.
+   - create pull requests to request remote changes on a before local changes be integrated into the main branch that all members of the remote team will be working on. 
+   - 
+-  
+-   
+-    
+-     
+-       for keeping track of projects related to Software Engineering with C#. 
 
-- For me, the most satisfying element of engineering with software is the opportunity to be creative while having the challenge of working within a structured framework. Ultimately, I'm experiencing it as another way to elevate the audience's mood by bringing ideas that solve problems to life. 
 
 - 🌱 I'm proud of the fact that my tech stack knowledege base has expanded to include **C#, .NET, JavaScript, Node.JS, React, Express, Gatsby, GraphQL and Figma**
 
