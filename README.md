@@ -30,8 +30,7 @@ After creating the GitHub account, we learned about GitHub functions and basic G
   - how to save the changes in the local repository after files have been added to the staging area // `git commit -m "description of your changes"` 
   - how to send the saved local changes to the main branch of a repository // `git push origin master`
   - how to check which files were saved to the staging area and which files were not // `git status`
-  - how to view, add, and delete remote connections to and from other remote repositories // `git remote` + `[additional commands depending on action](https://www.atlassian.com/git/tutorials/syncing#git-remote)`
-`, 
+  - how to view, add, and delete remote connections to and from other remote repositories // `git remote` + [additional commands depending on action](https://www.atlassian.com/git/tutorials/syncing#git-remote) 
 
 
   - 
