@@ -11,7 +11,7 @@
 #### Tired of living paycheck to paycheck? 💸 ####  
   - [11 Day Financial Success Challenge](https://asiakay.github.io/https-PopularPreciousScriptinglanguages/) Kickstart your path to learning more about how to make your money work for you and consider joining. 
   - [Savings and Investment Calculator](https://asiakay.github.io/WhirlwindConfusedInterchangeability/) Calculate your custom personal savings and investment plan based on your current weekly income.  
-  - [Realtime Cryptocurrency Volatility Chart ](https://crypto-dashboard-deploy.herokuapp.com/)
+  - [Realtime Cryptocurrency Price Data Visualization](https://crypto-dashboard-deploy.herokuapp.com/) Select a cryptocurrency pair to view chart data showing the range of prices over a time period up to the current real-time price.
 
 
 
