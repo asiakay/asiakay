@@ -16,15 +16,29 @@
 
 
 
-- 👩🏿‍💻 In 2020, I attended a nine-week software engineering bootcamp to learn software engineering. Through the bootcamp, I learned:
+##### 👩🏿‍💻 In 2020, I attended a nine-week software engineering bootcamp to learn software engineering. ##### 
+As a result of learning remotely through zoom and studying with classmates in the bootcamp, I learned:
   - how to access the command line interface, or CLI
   - how to install software at the CLI
   - how to create a GitHub account 
-  - how to fork and clone repositories, or archives of code
-  - basic git commands including:
-   -- how to make sure that Git tracks your contributions to the main repository // `git config`
-   - how to initialize a local repository to define the starting point for recording changes to the code
-   - collaborate with a team to test features on branches, or offshoots, of the main archive.
+
+After creating the GitHub account, we learned about GitHub functions and basic Git commands including:
+  - how to make sure that Git tracks your contributions to the main repository // `git config`
+  - how to initialize a local repository to define the starting point for recording changes to the code // `git init`
+  - how to fork and clone/copy repositories, or archives of code // `git clone`
+  - how to add new and/or changed files to the staging area  // `git add`
+  - how to save the changes in the local repository after files have been added to the staging area // `git commit -m "description of your changes"` 
+  - how to send the saved local changes to the main branch of a repository // `git push origin master`
+  - how to check which files were saved to the staging area and which files were not // `git status`
+  - how to view, add, and delete remote connections to and from other remote repositories // `git remote` + `[additional commands depending on action](https://www.atlassian.com/git/tutorials/syncing#git-remote)`
+`, 
+
+
+  - 
+  -  
+  -   
+  -     for viewing files and collaborating with 
+  - collaborate with a team to test features on branches, or offshoots, of the main archive.
    - create pull requests to request remote changes on a before local changes be integrated into the main branch that all members of the remote team will be working on. 
    - 
 -  
