@@ -2,10 +2,10 @@
 
 - Mar. 2022 || Check out some of the projects that I am working on a.k.a. building in public! 
 
-#### Need a boost of positive energy? ####
+#### Need a boost of positive energy? ✨ ####
  - [Visit myMindset](https://asiakay.github.io/quoteGenerator/), The Mindful Motivational Random Quote Machine.
 
-#### Looking for a thing of beauty? ####
+#### Looking for a thing of beauty? 🌺 ####
  - [Art Photography by Asia K](https://asiakay.github.io/artphotography/) is my first gallery of photography NFTs. The collection features things of beauty in and around Boston that caught my eye, framed in perspective.  
 
 #### Tired of living paycheck to paycheck? 💸 ####  
