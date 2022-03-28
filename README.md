@@ -21,6 +21,7 @@ As a result of learning remotely through zoom and studying with classmates in th
   - how to access the command line interface, or CLI
   - how to install software at the CLI
   - how to create a GitHub account 
+  - how to design CRUD (create, read, update, and delete) applications in a console and web interface
 
 After creating the GitHub account, we learned about GitHub functions and basic Git commands including:
   - how to make sure that Git tracks your contributions to the main repository // `git config`
@@ -30,16 +31,14 @@ After creating the GitHub account, we learned about GitHub functions and basic G
   - how to save the changes in the local repository after files have been added to the staging area // `git commit -m "description of your changes"` 
   - how to send the saved local changes to the main branch of a repository // `git push origin master`
   - how to check which files were saved to the staging area and which files were not // `git status`
-  - how to view, add, and delete remote connections to and from other remote repositories // `git remote` + [additional commands depending on action](https://www.atlassian.com/git/tutorials/syncing#git-remote) 
+  - how to view, add, and delete remote connections to and from other remote repositories // `git remote` + [commands](https://www.atlassian.com/git/tutorials/syncing#git-remote) 
+  - how to do CRUD operations on branches // `git branch` + [commands](https://www.atlassian.com/git/tutorials/using-branches)
+  - how to capture changes from a remote server and merge the changes to the local repository directory 
+  - how to view any conflicts from merging version histories across local repositories, compare them and preview before committing 
 
-
-  - 
-  -  
-  -   
-  -     for viewing files and collaborating with 
   - collaborate with a team to test features on branches, or offshoots, of the main archive.
-   - create pull requests to request remote changes on a before local changes be integrated into the main branch that all members of the remote team will be working on. 
-   - 
+   - how to create pull requests to request remote changes on a before local changes be integrated into the main branch that all members of the remote team will be working on. 
+   - how to undo by replacing changes with the previously saved content
 -  
 -   
 -    
