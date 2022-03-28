@@ -14,7 +14,7 @@
   - [Realtime Cryptocurrency Price Data Visualization](https://crypto-dashboard-deploy.herokuapp.com/) Select a cryptocurrency pair to view chart data.
 
 
-##### Tech Stack ##### 
+##### 💻 Tech Stack ##### 
 HTML5/CSS3/JavaScript, C#, Cloud Deployment, Express, Figma, Gatsby, GraphQL, NodeJS, Python, RestAPI, WebSockets... 
 
 
