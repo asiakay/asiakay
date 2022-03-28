@@ -6,7 +6,7 @@
  - [myMindset](https://asiakay.github.io/quoteGenerator/) is a Mindful Random Motivational Quote Machine.
 
 #### Looking for a thing of beauty? 🌺 ####
- - [Art Photography by Asia K](https://asiakay.github.io/artphotography/) is my first gallery of photography NFTs. The collection features things of beauty in and around Boston that caught my eye, framed in perspective.  
+ - [Art Photography by Asia K](https://asiakay.github.io/artphotography/) is my first gallery of photography NFTs - minted on the carbon-neutral Algorand blockchain. The collection features things of beauty in and around Boston that caught my eye, framed in perspective.  
 
 #### Tired of living paycheck to paycheck? 💸 ####  
   - [11 Day Financial Success Challenge](https://asiakay.github.io/https-PopularPreciousScriptinglanguages/) Kickstart your journed to financial wellness.
