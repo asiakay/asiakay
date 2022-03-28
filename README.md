@@ -18,7 +18,7 @@
 
 ##### 👩🏿‍💻 In 2020, I attended a nine-week software engineering bootcamp to learn software engineering. ##### 
 As a result of learning remotely through zoom and studying with classmates in the bootcamp, I learned:
-  - how to access the command line interface, or CLI
+  - how to access the command line interface, or CLI (on a mac? `ctrl` + scroll down to services dropdown and select `new terminal at folder`) 
   - how to install software at the CLI
   - how to create a GitHub account 
   - how to design CRUD (create, read, update, and delete) applications in a console and web interface
@@ -33,17 +33,11 @@ After creating the GitHub account, we learned about GitHub functions and basic G
   - how to check which files were saved to the staging area and which files were not // `git status`
   - how to view, add, and delete remote connections to and from other remote repositories // `git remote` + [commands](https://www.atlassian.com/git/tutorials/syncing#git-remote) 
   - how to do CRUD operations on branches // `git branch` + [commands](https://www.atlassian.com/git/tutorials/using-branches)
-  - how to capture changes from a remote server and merge the changes to the local repository directory 
-  - how to view any conflicts from merging version histories across local repositories, compare them and preview before committing 
+  - how to capture changes from a remote server and merge the changes to the local repository directory // `git pull`, `git merge`
+  - how to view any conflicts from merging version histories across local repositories, compare them and preview before committing // `git diff`
+  - how to locally start from scratch by fetching the most recent history from the server's remote repository. // `git fetch origin`
 
-  - collaborate with a team to test features on branches, or offshoots, of the main archive.
-   - how to create pull requests to request remote changes on a before local changes be integrated into the main branch that all members of the remote team will be working on. 
-   - how to undo by replacing changes with the previously saved content
--  
--   
--    
--     
--       for keeping track of projects related to Software Engineering with C#. 
+
 
 
 - 🌱 I'm proud of the fact that my tech stack knowledege base has expanded to include **C#, .NET, JavaScript, Node.JS, React, Express, Gatsby, GraphQL and Figma**
