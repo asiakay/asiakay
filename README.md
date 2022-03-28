@@ -17,25 +17,26 @@
 
 
 ##### 👩🏿‍💻 In 2020, I attended a nine-week software engineering bootcamp to learn software engineering. ##### 
-As a result of learning remotely through zoom and studying with classmates in the bootcamp, I learned:
-  - how to access the command line interface, or CLI (on a mac? `ctrl` + scroll down to services dropdown and select `new terminal at folder`) 
+Through zoom instruction, we learned: 
+  - how to access the command line interface, or CLI 
   - how to install software at the CLI
   - how to create a GitHub account 
-  - how to design CRUD (create, read, update, and delete) applications in a console and web interface
+  - how to make sense of data types, arrays, lists, methods, factory design pattern, encapsualtion, MVC architecture to build browser applications in C#.
+  - how to design ASP.NET MVC applications and Web CRUD (create, read, update, and delete) o in a console and web interface
 
 After creating the GitHub account, we learned about GitHub functions and basic Git commands including:
-  - how to make sure that Git tracks your contributions to the main repository // `git config`
-  - how to initialize a local repository to define the starting point for recording changes to the code // `git init`
-  - how to fork and clone/copy repositories, or archives of code // `git clone`
-  - how to add new and/or changed files to the staging area  // `git add`
-  - how to save the changes in the local repository after files have been added to the staging area // `git commit -m "description of your changes"` 
-  - how to send the saved local changes to the main branch of a repository // `git push origin master`
-  - how to check which files were saved to the staging area and which files were not // `git status`
-  - how to view, add, and delete remote connections to and from other remote repositories // `git remote` + [commands](https://www.atlassian.com/git/tutorials/syncing#git-remote) 
-  - how to do CRUD operations on branches // `git branch` + [commands](https://www.atlassian.com/git/tutorials/using-branches)
-  - how to capture changes from a remote server and merge the changes to the local repository directory // `git pull`, `git merge`
-  - how to view any conflicts from merging version histories across local repositories, compare them and preview before committing // `git diff`
-  - how to locally start from scratch by fetching the most recent history from the server's remote repository. // `git fetch origin`
+  - how to make sure that Git tracks your contributions to the main repository 
+  - how to initialize a local repository to define the starting point for recording changes to the code
+  - how to fork and clone/copy repositories, or archives of code 
+  - how to add new and/or changed files to the staging area 
+  - how to save the changes in the local repository after files have been added to the staging area 
+  - how to send the saved local changes to the main branch of a repository 
+  - how to check which files were saved to the staging area and which files were not 
+  - how to view, add, and delete remote connections to and from other remote repositories 
+  - how to do CRUD operations on branches
+  - how to capture changes from a remote server and merge the changes to the local repository directory
+  - how to view any conflicts from merging version histories across local repositories, compare them and preview before committing 
+  - how to locally start from scratch by fetching the most recent history from the server's remote repository
 
 
 
