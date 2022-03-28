@@ -9,7 +9,8 @@
  - [Art Photography by Asia K](https://asiakay.github.io/artphotography/) is my first gallery of photography NFTs. The collection features things of beauty in and around Boston that caught my eye, framed in perspective.  
 
 #### Tired of living paycheck to paycheck? 💸 ####  
-  - [11 Day Financial Success Challenge](https://asiakay.github.io/https-PopularPreciousScriptinglanguages/) Kickstart your path to learning more about how to make your money work for you and consider joining. 
+  - [11 Day Financial Success Challenge](https://asiakay.github.io/https-PopularPreciousScriptinglanguages/) Kickstart your journed to financial wellness.
+  - 
   - [Savings and Investment Calculator](https://asiakay.github.io/WhirlwindConfusedInterchangeability/) Calculate your custom personal savings and investment plan based on your current weekly income.  
   - [Realtime Cryptocurrency Price Data Visualization](https://crypto-dashboard-deploy.herokuapp.com/) Select a cryptocurrency pair to view chart data showing the range of prices over a time period up to the current real-time price.
 
