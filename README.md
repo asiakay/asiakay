@@ -15,7 +15,7 @@
 
 
 ##### 💻 Tech Stack ##### 
-HTML5/CSS3/JavaScript, C#, Cloud Deployment, Express, Figma, Gatsby, GraphQL, NodeJS, Python, RestAPI, WebSockets... 
+HTML5/CSS3/JavaScript, C#, Cloud Deployment, Express, Figma, Gatsby, GraphQL, MySql, Node.JS, Python, RestAPI, WebSockets... 
 
 
 
