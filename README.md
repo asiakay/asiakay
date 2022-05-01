@@ -3,7 +3,7 @@
 - Apr. 2022 || Check out some of the projects that I am working on a.k.a. building in public! 
 
 #### 🎼 Audio Engineering, Music Composition & Sound Design
-- Vanilla Javascript Playlist 
+- [Music Player UI](https://asiakay.github.io/music/) Vanilla Javascript Playlist 
 
 #### ✨ Need a boost of positive energy?  ####
  - [myMindset](https://asiakay.github.io/quoteGenerator/) is a Mindful Random Motivational Quote Machine.
