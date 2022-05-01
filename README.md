@@ -1,6 +1,4 @@
-### 🌎 Hello  #### 
-
-- Apr. 2022 || Check out some of the projects that I am working on a.k.a. building in public! 
+### Hello 🌎 Apr. 2022 || Check out some of the projects that I am working on a.k.a. building in public! ###
 
 #### 🎼 Audio Engineering, Music Composition & Sound Design
 - [Music Player UI](https://asiakay.github.io/music/) Vanilla Javascript Playlist 
