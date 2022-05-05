@@ -18,7 +18,7 @@ Check out some of the projects that I am working on a.k.a. building in public!
 
 
 ##### 💻 Tech Stack ##### 
-HTML5/CSS3/JavaScript, C#, Cloud Deployment, Express, Figma, Gatsby, GraphQL, MySql, Node.JS, Python, RestAPI, WebSockets... 
+Command line, HTML5/CSS3/JavaScript, C#, Cloud deployment, Express, Figma, Gatsby, GraphQL, MySql, Node.JS, Python, RestAPI, WebSockets... 
 
 
 
