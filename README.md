@@ -22,7 +22,7 @@ Check out some of the projects that I am working on a.k.a. building in public ðŸ
 - [CLI](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line) 
 - [Git](https://git-scm.com/) 
 - IDEs ([Visual Studio Code](https://code.visualstudio.com/), [Visual Studio](https://visualstudio.microsoft.com/))
-- CI/CD, or Continuous integration & deployment to [Github Pages](https://pages.github.com/), [Heroku](https://www.heroku.com/), [Vercel](https://vercel.com/),  
+- CI/CD, or Continuous integration & deployment to [Github Pages](https://pages.github.com/), [Heroku](https://www.heroku.com/), [Vercel](https://vercel.com/)  
 - HTML5 & CSS3
 - SQL
 - [Figma](https://www.figma.com/) for Graphic & UI/UX Design
