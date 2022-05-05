@@ -30,7 +30,7 @@ Check out some of the projects that I am working on a.k.a. building in public ðŸ
 - Javascript Frontend Libraries and Frameworks ([jQuery](https://learn.jquery.com/about-jquery/), [React](https://reactjs.org/), [Gatsby](https://www.gatsbyjs.com/), [Chakra UI](https://chakra-ui.com/), [Chart.js](https://www.chartjs.org/), [p5.js](https://p5js.org/), [Webpack](https://webpack.js.org/), [tsParticles](https://particles.js.org/) 
 - [Node.js](https://nodejs.org/en/) and [Express](https://expressjs.com/)
 - Markup & Programming languages (HTML/CSS, [JavaScript](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics), [Python](https://www.python.org/), [C#](https://docs.microsoft.com/en-us/dotnet/csharp/), [Go](https://go.dev/), 
-- CSS Frameworks ([Bootstrap](https://getbootstrap.com/), [TailwindCSS](https://tailwindcss.com/)
+- CSS Frameworks ([Bootstrap](https://getbootstrap.com/), [TailwindCSS](https://tailwindcss.com/), Sass)
 - SEO, or Search Engine Optimiation
 - RWD, or Responsive Web Design 
 - [WebSockets](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
