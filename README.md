@@ -1,8 +1,11 @@
 ### Hello 🌎 May 2022 ###
 Check out some of the projects that I am working on a.k.a. building in public 😉 
 
-#### 🎼 Audio Engineering, Music Composition & Sound Design
-- [Music Player UI](https://asiakay.github.io/music/) - Vanilla Javascript playlist of original audio productions. [Signup here](https://signup-app.vercel.app/) for updates. (UNDER CONSTRUCTION)
+#### 🎼 Audio Composition & Engineering Portfolio 
+- [Music Player UI](https://asiakay.github.io/music/) - Vanilla Javascript playlist of original audio productions. 
+
+#### 📇 Graphic Design & Web Marketing
+- [Lead Capture Application](https://signup-app.vercel.app/) Responsive React form with Responsive Bootstrap, Sass and Formspree CLI API for client side processing, using elements of Neobrutalism design style - hosted on Vercel.
 
 #### ✨ Need a boost of positive energy?  ####
  - [myMindset](https://asiakay.github.io/quoteGenerator/) is a Mindful Random Motivational Quote Machine.
