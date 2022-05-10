@@ -1,28 +1,17 @@
 # Hello 🌎 May 2022 #
-### dev project demos ### 
 
 ### resources ### 
 - for art, news & tech content creators
 - for Environment, Sustainability and Governance (ESG) advocates 
 - for web2/web3 developers
 
-#### 🎼 audio composition & engineering portfolio 
-- [Music Player UI](https://asiakay.github.io/music/) - Vanilla Javascript playlist of original audio productions. 
+### current dev projects ### 
+- [asialakay.net](https://www.asialakay.net/): art. design. nature. science. tech. life. (under construction - signup for updates) 
 
-#### 📇 Graphic Design & Web Marketing
-- [Lead Capture Application](https://signup-app.vercel.app/) Responsive React form with Responsive Bootstrap, Sass and Formspree CLI API for client side processing, using elements of Neobrutalism design style - hosted on Vercel.
+-🦩[Art Photography by Asia K](https://asiakay.github.io/artphotography/): Carbon neutral Art Photography NFTs Available for sale and trade on [Algogems.io](https://www.algogems.io/).
 
-#### ✨ Need a boost of positive energy?  ####
- - [myMindset](https://asiakay.github.io/quoteGenerator/) is a Mindful Random Motivational Quote Machine.
+-[Music Player UX/UI](https://asiakay.github.io/music/): Music Player User Experience/ User Interface Design featuring recorded live performances, original music compositions, and audio mixing/engineering samples. 
 
-#### 🌺 Looking for a thing of beauty?  ####
- - [Art Photography by Asia K](https://asiakay.github.io/artphotography/) is my first gallery of photography NFTs - minted on the carbon-neutral Algorand blockchain. The collection features things of beauty in and around Boston that caught my eye, framed with perspective. Available for sale on [Algogems.io](https://www.algogems.io/), the open trading platform/NFT marketplace that allows artists to mint and auction their NFT for free //[docs](https://algogemsnft.github.io/#/).
-  
-
-#### 💸 Tired of living paycheck to paycheck?  ####  
-  - [Realtime Cryptocurrency Price Data Visualization](https://crypto-dashboard-deploy.herokuapp.com/) Select a cryptocurrency pair to view chart data.
-  - [11 Day Financial Success Challenge](https://asiakay.github.io/https-PopularPreciousScriptinglanguages/) Kickstart your journey to financial wellness.
-  - [Savings and Investment Calculator](https://asiakay.github.io/WhirlwindConfusedInterchangeability/) Budget for savings and investment based on weekly income. 
 
 
 
