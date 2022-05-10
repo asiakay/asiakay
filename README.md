@@ -1,7 +1,12 @@
-### Hello 🌎 May 2022 ###
-Check out some of the projects that I am working on a.k.a. building in public 😉 
+# Hello 🌎 May 2022 #
+### dev project demos ### 
 
-#### 🎼 Audio Composition & Engineering Portfolio 
+### resources ### 
+- for art, news & tech content creators
+- for Environment, Sustainability and Governance (ESG) advocates 
+- for web2/web3 developers
+
+#### 🎼 audio composition & engineering portfolio 
 - [Music Player UI](https://asiakay.github.io/music/) - Vanilla Javascript playlist of original audio productions. 
 
 #### 📇 Graphic Design & Web Marketing
