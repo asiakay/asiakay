@@ -1,7 +1,7 @@
 # Hello 🌎 May 2022 #
 
 ### Resources ### 
-- 🔌 for [Art, News & Tech content creators](https://padlet.com/asialakay/ut5ofk1704pjygy7) 
+- 🔌 for [Art, News & Tech Content Creators](https://padlet.com/asialakay/ut5ofk1704pjygy7) 
 - 🌳 for [ESG: Environment, Sustainability, Governance, and Wellness](https://padlet.com/asialakay/fvc9yi3h4932) 
 - 🧱 for [Web3.0 Developers, UX/UI Designers, Consumer and Accessibility Advocates](https://padlet.com/asialakay/loz0p1k78g4zv592)
 
