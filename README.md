@@ -17,9 +17,9 @@
   - [x] Tech Stack (HTML/CSS/JavaScript, Responsive Web Design, Ableton Live, FL Studio Mobile) 
 
 #### 🦩[Photo Gallery](https://asiakay.github.io/artphotography/) #### 
- - [x] User Experience Design Inspiration: RWD, or Responsive Web Design
--  [x] Users can 1) make contact through a form, 2) view links for internal and external navigation on page scroll, and 3) view a responsive image gallery of Carbon neutral Art Photography NFTs Available for sale and trade on [Algogems.io](https://www.algogems.io/).
--  
+ - [x] User Experience Design Inspiration: Responsive Web Design
+ - [x] Users can 1) make contact through a form, 2) view links for internal and external navigation on page scroll, and 3) view a responsive image gallery of Carbon neutral Art Photography NFTs Available for sale and trade on [Algogems.io](https://www.algogems.io/).
+ 
 
 ##### 💻 Self Taught Tech Stack ##### 
 - [CLI](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line) 
