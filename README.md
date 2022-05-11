@@ -5,23 +5,23 @@
 - 🌳 for [ESG: Environment, Sustainability, Governance, and Wellness](https://padlet.com/asialakay/fvc9yi3h4932) 
 - 🧱 for [Web3.0 Developers, UX/UI Designers, Consumer and Accessibility Advocates](https://padlet.com/asialakay/loz0p1k78g4zv592)
 
-### current dev projects ### 
-User Experience/User Interface/API Integration
-- 📫 [asialakay.net](https://www.asialakay.net/): 
+### Projects ### 
+#### 📫 [asialakay.net](https://www.asialakay.net/) #### 
   - [x] User Interface Design Inspiration: Neobrutalism
-  - [x] Users can signup for updates and receive confirmation on the same page.  
+  - [x] Through a form, users can 1) signup for updates and 2) receive confirmation of the signup on the same page.  
   - [x] Tech Stack (Node, React with useEffect hooks, Bootstrap, Sass, API integration with Formspree, Responsive Web Design with Media queries)  
 
-- 🎛 [Music Player](https://asiakay.github.io/music/): User Experience/User Interface (UX/UI) Design featuring an array of recorded live performances, original music compositions, and audio mixing/engineering samples. 
+#### 🎛 [Music Player](https://asiakay.github.io/music/) #### 
+  - [x] User Experience Design Inspiration: Glassmorphism
+  - [x] Users can 1) click a button to play/pause an individual tracks, and 2) click on the forward or backward icon to play the next or previous track in the playlist/array of recorded live performances, original music compositions, and sample mix/engineering MP3s. 
+  - [x] Tech Stack (HTML/CSS/JavaScript, Responsive Web Design, Ableton Live, FL Studio Mobile) 
 
-- 🦩[Photo Gallery](https://asiakay.github.io/artphotography/): User Experience/User Interface (UX/UI) Design featuring a responsive contact form, navigation links, and a visual gallery of Carbon neutral Art Photography NFTs Available for sale and trade on [Algogems.io](https://www.algogems.io/).
+#### 🦩[Photo Gallery](https://asiakay.github.io/artphotography/) #### 
+ - [x] User Experience Design Inspiration: RWD, or Responsive Web Design
+-  [x] Users can 1) make contact through a form, 2) view links for internal and external navigation on page scroll, and 3) view a responsive image gallery of Carbon neutral Art Photography NFTs Available for sale and trade on [Algogems.io](https://www.algogems.io/).
+-  
 
-
-
-
-
-
-##### 💻 Tech Stack ##### 
+##### 💻 Self Taught Tech Stack ##### 
 - [CLI](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line) 
 - [Git](https://git-scm.com/) 
 - IDEs ([Visual Studio Code](https://code.visualstudio.com/), [Visual Studio](https://visualstudio.microsoft.com/))
