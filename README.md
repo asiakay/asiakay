@@ -1,16 +1,22 @@
 # Hello 🌎 May 2022 #
 
 ### resources ### 
-- for art, news & tech content creators
-- for Environment, Sustainability and Governance (ESG) advocates 
-- for web2/web3 developers
+- 🔌 for [Art, News & Tech content creators](https://padlet.com/asialakay/ut5ofk1704pjygy7) 
+- 🌳 for [ESG: Environment, Sustainability, Governance, and Wellness](https://padlet.com/asialakay/fvc9yi3h4932) 
+- 🧱 for [Web3.0 Developers, UX/UI Designers, Consumer and Accessibility Advocates](https://padlet.com/asialakay/loz0p1k78g4zv592)
 
 ### current dev projects ### 
-- [asialakay.net](https://www.asialakay.net/): art. design. nature. science. tech. life. (under construction - signup for updates) 
+User Experience/User Interface/API Integration
+- 📫 [asialakay.net](https://www.asialakay.net/): 
+  - [x] User Interface Design Inspiration: Neobrutalism
+  - [x] Users can signup for updates and receive confirmation on the same page.  
+  - [x] Tech Stack (Node, React with useEffect hooks, Bootstrap, Sass, API integration with Formspree, Responsive Web Design with Media queries)  
 
--🦩[Art Photography by Asia K](https://asiakay.github.io/artphotography/): Carbon neutral Art Photography NFTs Available for sale and trade on [Algogems.io](https://www.algogems.io/).
+- 🎛 [Music Player](https://asiakay.github.io/music/): User Experience/User Interface (UX/UI) Design featuring an array of recorded live performances, original music compositions, and audio mixing/engineering samples. 
 
--[Music Player UX/UI](https://asiakay.github.io/music/): Music Player User Experience/ User Interface Design featuring recorded live performances, original music compositions, and audio mixing/engineering samples. 
+- 🦩[Photo Gallery](https://asiakay.github.io/artphotography/): User Experience/User Interface (UX/UI) Design featuring a responsive contact form, navigation links, and a visual gallery of Carbon neutral Art Photography NFTs Available for sale and trade on [Algogems.io](https://www.algogems.io/).
+
+
 
 
 
