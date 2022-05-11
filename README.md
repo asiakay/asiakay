@@ -13,7 +13,7 @@
 
 #### 🎛 [Music Player](https://asiakay.github.io/music/) #### 
   - [x] User Experience Design Inspiration: Glassmorphism
-  - [x] Users can 1) click a button to play/pause an individual tracks, and 2) click on the forward or backward icon to play the next or previous track in the playlist/array of recorded live performances, original music compositions, and sample mix/engineering MP3s. 
+  - [x] Users can 1) click a button to play/pause an individual tracks, and 2) click on the forward or backward icon to play the next or previous track in the playlist/array of MP3s. 
   - [x] Tech Stack (HTML/CSS/JavaScript, Responsive Web Design, Ableton Live, FL Studio Mobile) 
 
 #### 🦩[Photo Gallery](https://asiakay.github.io/artphotography/) #### 
