@@ -27,7 +27,7 @@
 - IDEs ([Visual Studio Code](https://code.visualstudio.com/), [Visual Studio](https://visualstudio.microsoft.com/))
 - CI/CD, or Continuous integration & deployment to [Github Pages](https://pages.github.com/), [Heroku](https://www.heroku.com/), [Vercel](https://vercel.com/)  
 - HTML5 & CSS3
-- SQL
+- MySQL
 - [Figma](https://www.figma.com/) for Graphic & UI/UX Design
 - Application Programming Interface (API)
 - Javascript Frontend Libraries and Frameworks ([jQuery](https://learn.jquery.com/about-jquery/), [React](https://reactjs.org/), [Gatsby](https://www.gatsbyjs.com/), [Chakra UI](https://chakra-ui.com/), [Chart.js](https://www.chartjs.org/), [p5.js](https://p5js.org/), [Webpack](https://webpack.js.org/), [tsParticles](https://particles.js.org/) 
