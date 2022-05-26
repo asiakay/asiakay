@@ -38,8 +38,9 @@
 - RWD, or Responsive Web Design 
 - [WebSockets](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
 
-## What I'm planning to learn/test next ## 
+## What I'm planning to learn/test next ##
 - [Asynchronous JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Introducing) 
+- [Solidity](https://docs.soliditylang.org/en/v0.8.14/)
 - [XMLHttpRequest](https://www.w3schools.com/xml/xml_http.asp) 
 - [AJAX](https://www.w3schools.com/js/js_ajax_intro.asp)
 - [GraphQL](https://www.graphql.com/)
