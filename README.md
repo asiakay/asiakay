@@ -1,4 +1,4 @@
-# Hello 🌎 May 2022 #
+# Hello 🌎 June 2022 #
 
 ### Resources ### 
 - 🔌 for [Art, News & Tech Content Creators](https://padlet.com/asialakay/ut5ofk1704pjygy7) 
@@ -6,6 +6,9 @@
 - 🧱 for [Web3.0 Developers, UX/UI Designers, Consumer and Accessibility Advocates](https://padlet.com/asialakay/loz0p1k78g4zv592)
 
 ### Projects ### 
+#### 👩🏾‍💻 [asialakay-docs](https://asialakay-docs-asiakayy.vercel.app/) #### 
+Technical/Project Documentation Blog - Boostrapped with Docusaurus featuring config customizations
+
 #### 📫 [asialakay.net](https://www.asialakay.net/) #### 
   - [x] User Interface Design Inspiration: Neobrutalism
   - [x] Through a form, users can 1) signup for updates and 2) receive confirmation of the signup on the same page.  
