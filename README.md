@@ -7,7 +7,7 @@
 
 ### Projects ### 
 #### 👩🏾‍💻 [asialakay-docs](https://asialakay-docs-asiakayy.vercel.app/) #### 
-Technical/Project Documentation Blog - Boostrapped with Docusaurus featuring config customizations
+Technical/Project Documentation Blog: Boostrapped with Docusaurus - features config customizations
 
 #### 📫 [asialakay.net](https://www.asialakay.net/) #### 
   - [x] User Interface Design Inspiration: Neobrutalism
