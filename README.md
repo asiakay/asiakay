@@ -34,17 +34,17 @@ Technical/Project Documentation Blog: Boostrapped with Docusaurus - features con
 - [Figma](https://www.figma.com/) for Graphic & UI/UX Design
 - Application Programming Interface (API)
 - Javascript Frontend Libraries and Frameworks ([jQuery](https://learn.jquery.com/about-jquery/), [React](https://reactjs.org/), [Gatsby](https://www.gatsbyjs.com/), [Chakra UI](https://chakra-ui.com/), [Chart.js](https://www.chartjs.org/), [p5.js](https://p5js.org/), [Webpack](https://webpack.js.org/), [tsParticles](https://particles.js.org/) 
+- [Asynchronous JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Introducing) 
 - [Node.js](https://nodejs.org/en/) and [Express](https://expressjs.com/)
 - Markup & Programming languages (HTML/CSS, [JavaScript](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics), [Python](https://www.python.org/), [C#](https://docs.microsoft.com/en-us/dotnet/csharp/), [Go](https://go.dev/), 
 - CSS Frameworks ([Bootstrap](https://getbootstrap.com/), [TailwindCSS](https://tailwindcss.com/), Sass)
 - SEO, or Search Engine Optimiation
 - RWD, or Responsive Web Design 
 - [WebSockets](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
+- Blockchain Technology ([Hardhat](https://hardhat.org/), [Solidity](https://docs.soliditylang.org/en/v0.8.14/)
 
 ## What I'm planning to learn/test next ##
-- Hardhat
-- [Asynchronous JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Introducing) 
-- [Solidity](https://docs.soliditylang.org/en/v0.8.14/)
+
 - [XMLHttpRequest](https://www.w3schools.com/xml/xml_http.asp) 
 - [AJAX](https://www.w3schools.com/js/js_ajax_intro.asp)
 - [GraphQL](https://www.graphql.com/)
