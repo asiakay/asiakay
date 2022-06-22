@@ -41,7 +41,7 @@ Technical/Project Documentation Blog: Boostrapped with Docusaurus - features con
 - SEO, or Search Engine Optimiation
 - RWD, or Responsive Web Design 
 - [WebSockets](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
-- Blockchain Technology ([Hardhat](https://hardhat.org/), [Solidity](https://docs.soliditylang.org/en/v0.8.14/)
+- Blockchain Technology ([Hardhat](https://hardhat.org/), [Solidity](https://docs.soliditylang.org/en/v0.8.14/))
 
 ## What I'm planning to learn/test next ##
 
