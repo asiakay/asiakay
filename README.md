@@ -23,7 +23,7 @@ Technical/Project Documentation Blog: Boostrapped with Docusaurus - features con
  - [x] User Experience Design Inspiration: Responsive Web Design
  - [x] Users can 1) make contact through a form, 2) view links for internal and external navigation on page scroll, and 3) view a responsive image gallery of Carbon neutral Art Photography NFTs Available for sale and trade on [Algogems.io](https://www.algogems.io/).
  
- #### [Web3 Dapp: Wave Portal](wave-portal-app-six.vercel.app) ### 
+ #### [Web3 Dapp: Wave Portal](https://www.wave-portal-app-six.vercel.app) ### 
 
 ##### 💻 Tech Stack ##### 
 - [CLI](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line) 
