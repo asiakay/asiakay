@@ -3,7 +3,7 @@ Full stack developer, IT/tech project manager, and visual UX/UI specialist. Pass
 
 # [Technical/Project Documentation Blog](https://asialakay-docs-asiakayy.vercel.app/) # 
 
-- Built using Docusaurus
+- Built using [Docusaurus](https://docusaurus.io/)
 - Custom configurations for unique project needs
 
 # [Music Player](https://asiakay.github.io/music/) #
