@@ -1,9 +1,18 @@
-# Hello 🌎 June 2022 #
+# Professional Profile
+Full stack developer, IT/tech project manager, and visual UX/UI specialist. Passionate about creating user-centered designs and improving client's digital experiences. Interested in job and partnership opportunities.
 
-### Resources ### 
-- 🔌 for [Art, News & Tech Content Creators](https://padlet.com/asialakay/ut5ofk1704pjygy7) 
-- 🌳 for [ESG: Environment, Sustainability, Governance, and Wellness](https://padlet.com/asialakay/fvc9yi3h4932) 
-- 🧱 for [Web3.0 Developers, UX/UI Designers, Consumer and Accessibility Advocates](https://padlet.com/asialakay/loz0p1k78g4zv592)
+
+Resources
+🔌  [Art, News & Tech Content Creators](https://padlet.com/asialakay/ut5ofk1704pjygy7) 
+🌳 [ESG: Environment, Sustainability, Governance, and Wellness](https://padlet.com/asialakay/fvc9yi3h4932) 
+🧱 [Web3.0 Developers, UX/UI Designers, Consumer and Accessibility Advocates](https://padlet.com/asialakay/loz0p1k78g4zv592)
+Take a look at my work and let's collaborate to create something amazing together.
+
+## [Technical/Project Documentation Blog](https://asialakay-docs-asiakayy.vercel.app/) #### 
+
+- Built using Docusaurus
+- Custom configurations for unique project needs
+
 
 ### Projects ### 
 #### 👩🏾‍💻 [asialakay-docs](https://asialakay-docs-asiakayy.vercel.app/) #### 
