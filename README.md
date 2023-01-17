@@ -14,6 +14,6 @@ Users can 1) click a button to play/pause an individual tracks, and 2) click on 
 User Experience Design Inspiration: Responsive Web Design.
 Users can 1) make contact through a form, 2) view links for internal and external navigation on page scroll, and 3) view a responsive image gallery of Carbon neutral Art Photography NFTs Available for sale and trade on Algogems.io.
 
-# [Web3 Dapp: Wave Portal](https://wave-portal-app-six.vercel.app/). # 
+# [Web3 Dapp: Wave Portal](https://wave-portal-app-six.vercel.app/) # 
 Tech Stack: CLI, Git, IDEs (Visual Studio Code, Visual Studio), CI/CD, HTML5 & CSS3, MySQL, Figma for Graphic & UI/UX Design, Application Programming Interface (API), Javascript Frontend Libraries and Frameworks (jQuery, React, Gatsby, Chakra UI, Chart.js, p5.js, Webpack, tsParticles), Asynchronous JavaScript, Node.js and Express, GraphQL, Markup & Programming languages (HTML/CSS, JavaScript, Python, C#, Go), CSS Frameworks (Bootstrap, TailwindCSS, Sass), SEO, RWD, WebSockets, Blockchain Technology (Hardhat, Solidity).
 
