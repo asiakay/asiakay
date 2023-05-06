@@ -6,6 +6,11 @@ Full stack developer, IT/tech project manager, and visual UX/UI specialist. Pass
 - Built using [Docusaurus](https://docusaurus.io/)
 - Custom configurations for unique project needs
 
+# [FloralFlow](https://github.com/asiakay/floralflow)
+FloralFlow is a progressive web app that helps retail floral department managers and employees manage inventory, reduce waste, and streamline workflows through data visualization.
+
+[floralflow.vercel.app/](floralflow.vercel.app/)
+
 # [Music Player](https://asiakay.github.io/music/) #
 User Experience Design Inspiration: Glassmorphism.  
 Users can 1) click a button to play/pause an individual tracks, and 2) click on the forward or backward icon to play the next or previous track in the playlist/array of MP3s. Tech Stack: HTML/CSS/JavaScript, Responsive Web Design, Ableton Live, FL Studio Mobile
