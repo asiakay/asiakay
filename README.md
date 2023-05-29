@@ -11,7 +11,7 @@ Full stack developer, IT/tech project manager, and visual UX/UI specialist. Pass
 # [FloralFlow](https://github.com/asiakay/floralflow)
 FloralFlow is a progressive web app that helps retail floral department managers and employees manage inventory, reduce waste, and streamline workflows through data visualization.
 
-[floralflow.vercel.app/](floralflow.vercel.app/)
+[floralflow.vercel.app/](https://floralflow.vercel.app/)
 
 # [Music Player](https://asiakay.github.io/music/) #
 User Experience Design Inspiration: Glassmorphism.  
