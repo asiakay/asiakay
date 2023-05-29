@@ -14,6 +14,7 @@ FloralFlow is a progressive web app that helps retail floral department managers
 [floralflow.vercel.app/](https://floralflow.vercel.app/)
 
 ![Image](https://user-images.githubusercontent.com/66960776/241738038-0e1425bd-1225-4e96-8bbe-12896eade832.jpg)
+
 # [Floral Clerk Manual](https://floral487.gitbook.io/floral-clerk-manual/)
 
 # [Music  Player](https://asiakay.github.io/music/) #
