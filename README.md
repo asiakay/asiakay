@@ -8,6 +8,7 @@ Full stack developer, IT/tech project manager, and visual UX/UI specialist. Pass
 - Built using [Docusaurus](https://docusaurus.io/)
 - Custom configurations for unique project needs
 
+![Image](https://user-images.githubusercontent.com/66960776/241733519-85188adf-6474-4295-8265-08550a65fea7.jpg)
 # [FloralFlow](https://github.com/asiakay/floralflow)
 FloralFlow is a progressive web app that helps retail floral department managers and employees manage inventory, reduce waste, and streamline workflows through data visualization.
 
