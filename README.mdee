@@ -21,7 +21,7 @@ This guide provides a comprehensive approach to a floral department processes in
 
 ![Image](https://user-images.githubusercontent.com/66960776/241741267-4ef525db-97fd-414d-b9ac-6de69c71318c.jpg)
 
-# [Music  Player](https://asiakay.github.io/music/) #
+# [Music Player](https://asiakay.github.io/music/) #
 User Experience Design Inspiration: Glassmorphism.  
 Users can 1) click a button to play/pause an individual tracks, and 2) click on the forward or backward icon to play the next or previous track in the playlist/array of MP3s. Tech Stack: HTML/CSS/JavaScript, Responsive Web Design, Ableton Live, FL Studio Mobile
 
@@ -30,6 +30,8 @@ Users can 1) click a button to play/pause an individual tracks, and 2) click on 
 # [Photo Gallery](https://asiakay.github.io/artphotography/) #
 User Experience Design Inspiration: Responsive Web Design.
 Users can 1) make contact through a form, 2) view links for internal and external navigation on page scroll, and 3) view a responsive image gallery of Carbon neutral Art Photography NFTs Available for sale and trade on Algogems.io.
+
+![Image](https://user-images.githubusercontent.com/66960776/241745147-26b318b6-6fde-43ac-b2fa-5cf7b38acadc.jpg)
 
 # [Web3 Dapp: Wave Portal](https://wave-portal-app-six.vercel.app/) # 
 Tech Stack: CLI, Git, IDEs (Visual Studio Code, Visual Studio), CI/CD, HTML5 & CSS3, MySQL, Figma for Graphic & UI/UX Design, Application Programming Interface (API), Javascript Frontend Libraries and Frameworks (jQuery, React, Gatsby, Chakra UI, Chart.js, p5.js, Webpack, tsParticles), Asynchronous JavaScript, Node.js and Express, GraphQL, Markup & Programming languages (HTML/CSS, JavaScript, Python, C#, Go), CSS Frameworks (Bootstrap, TailwindCSS, Sass), SEO, RWD, WebSockets, Blockchain Technology (Hardhat, Solidity).
