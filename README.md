@@ -1,3 +1,5 @@
+![Image](https://user-images.githubusercontent.com/66960776/241713093-2e701e8a-6af7-4070-87b3-139e08527a2e.jpg)
+
 # [Professional Portfolio](https://www.asialakay.net/) #
 Full stack developer, IT/tech project manager, and visual UX/UI specialist. Passionate about creating user-centered designs and improving client's digital experiences. Interested in job and partnership opportunities.
 
