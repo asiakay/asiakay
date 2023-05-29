@@ -3,12 +3,15 @@
 # [Professional Portfolio](https://www.asialakay.net/) #
 Full stack developer, IT/tech project manager, and visual UX/UI specialist. Passionate about creating user-centered designs and improving client's digital experiences. Interested in job and partnership opportunities.
 
+![Image](https://user-images.githubusercontent.com/66960776/241747305-cd0e0699-23fc-427f-9d7a-5584b92b5924.jpg)
+
 # [Technical/Project Documentation Blog](https://asialakay-docs-asiakayy.vercel.app/) # 
 
 - Built using [Docusaurus](https://docusaurus.io/)
 - Custom configurations for unique project needs
 
 ![Image](https://user-images.githubusercontent.com/66960776/241733519-85188adf-6474-4295-8265-08550a65fea7.jpg)
+
 # [FloralFlow](https://github.com/asiakay/floralflow)
 FloralFlow is a progressive web app that helps retail floral department managers and employees manage inventory, reduce waste, and streamline workflows through data visualization.
 
