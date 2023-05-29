@@ -25,6 +25,8 @@ This guide provides a comprehensive approach to a floral department processes in
 User Experience Design Inspiration: Glassmorphism.  
 Users can 1) click a button to play/pause an individual tracks, and 2) click on the forward or backward icon to play the next or previous track in the playlist/array of MP3s. Tech Stack: HTML/CSS/JavaScript, Responsive Web Design, Ableton Live, FL Studio Mobile
 
+![Image](https://user-images.githubusercontent.com/66960776/241743313-e04792c3-0142-4476-8c80-a6bc8f1390e5.jpg)
+
 # [Photo Gallery](https://asiakay.github.io/artphotography/) #
 User Experience Design Inspiration: Responsive Web Design.
 Users can 1) make contact through a form, 2) view links for internal and external navigation on page scroll, and 3) view a responsive image gallery of Carbon neutral Art Photography NFTs Available for sale and trade on Algogems.io.
