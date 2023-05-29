@@ -6,7 +6,7 @@ Full stack developer, IT/tech project manager, and visual UX/UI specialist. Pass
 ![Image](https://user-images.githubusercontent.com/66960776/241755439-c0da04cd-aeef-4ad6-922d-9b7ef7430129.jpg)
 
 # [Repair Tracker Pro](https://repair-tracker-pro.vercel.app/)
-
+Repair Tracker Pro is a Next.js, Firebase, and React CRUD app for retail store managers to easily track and manage repairs with built-in notifications and data visualizations.
 
 ![Image](https://user-images.githubusercontent.com/66960776/241747305-cd0e0699-23fc-427f-9d7a-5584b92b5924.jpg)
 
