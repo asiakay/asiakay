@@ -13,7 +13,10 @@ FloralFlow is a progressive web app that helps retail floral department managers
 
 [floralflow.vercel.app/](https://floralflow.vercel.app/)
 
-# [Music Player](https://asiakay.github.io/music/) #
+![Image](https://user-images.githubusercontent.com/66960776/241738038-0e1425bd-1225-4e96-8bbe-12896eade832.jpg)
+# [Floral Clerk Manual](https://floral487.gitbook.io/floral-clerk-manual/)
+
+# [Music  Player](https://asiakay.github.io/music/) #
 User Experience Design Inspiration: Glassmorphism.  
 Users can 1) click a button to play/pause an individual tracks, and 2) click on the forward or backward icon to play the next or previous track in the playlist/array of MP3s. Tech Stack: HTML/CSS/JavaScript, Responsive Web Design, Ableton Live, FL Studio Mobile
 
