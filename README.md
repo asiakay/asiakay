@@ -25,7 +25,7 @@ Looking forward to connecting and innovating together! 🚀 #CodeAndCreate
 - Next.js, Firebase, and React CRUD app for retail store managers to easily track and manage repairs with built-in notifications and data visualizations.
 
 ## Technical/Project Documentation Blog
-![Image](https://user-images.githubusercontent.com/66960776/241733519-85188adf-6474-4295-8265-08550a65fea7.jpg)
+![Image](https://user-images.githubusercontent.com/66960776/241747305-cd0e0699-23fc-427f-9d7a-5584b92b5924.jpg)
 - [Link](https://asialakay-docs-asiakayy.vercel.app/)
 - Built using [Docusaurus](https://docusaurus.io/). Custom configurations for unique project needs.
 
@@ -58,4 +58,5 @@ Looking forward to connecting and innovating together! 🚀 #CodeAndCreate
 ![Image](https://user-images.githubusercontent.com/66960776/241746252-664c6ff6-8cd0-4f3c-8841-b15a167aaa72.jpg)
 - [Link](https://upcy-dao.vercel.app/)
 - Encouraging upcycling of sustainable materials. Members earn $UpCy tokens by participating. Detailed technical documentation [here](https://asialakay-docs-asiakayy.vercel.app/building-a-dao-with-JavaScript-1).
+
 
