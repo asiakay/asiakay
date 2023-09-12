@@ -15,6 +15,6 @@
 Looking forward to connecting and innovating together! 🚀 #CodeAndCreate
 
 ## Professional Portfolio
- []([click to view](https://github.com/asiakay/asiakay/wiki)https://github.com/asiakay/asiakay/wiki)
+[click to view](https://github.com/asiakay/asiakay/wiki)
 
 
