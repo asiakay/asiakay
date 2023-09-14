@@ -1,6 +1,6 @@
 👋 Hi there! 
 
-I'm [Asia K](https://www.asialakay.net), a versatile Full Stack Developer, Tech Project Manager, and Visual UX/UI Specialist. My passion lies in crafting user-centered designs and enhancing digital experiences. With a diverse portfolio that includes projects like [AsiaLakay.net](https://www.asialakay.net) [Black History Facts](https://github.com/asiakay/history-fact-app), [Floral Flow](https://github.com/asiakay/floralflow), and [Repair Tracker Pro](https://github.com/asiakay/repair-tracker-pro), I bring creativity and technical expertise to every endeavor. 
+I'm [Asia K](https://www.asialakay.net), a versatile Full Stack Developer, Tech Project Manager, and Visual UX/UI Specialist. My passion lies in crafting user-centered designs and enhancing digital experiences. With a diverse portfolio that includes projects like [AsiaLakay.net](https://www.asialakay.net), [Black History Facts](https://github.com/asiakay/history-fact-app), [Floral Flow](https://github.com/asiakay/floralflow), and [Repair Tracker Pro](https://github.com/asiakay/repair-tracker-pro), I bring creativity and technical expertise to every endeavor. 
 
 Through dedication and staying curious, I've become a passionate developer and designer with a diverse skill set, and I love to bring to life innovative solutions that bridge the gap between usefulness, technology, and design. Here's a bit about me:
 
