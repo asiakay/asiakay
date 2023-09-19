@@ -21,4 +21,7 @@ Looking forward to connecting and making a difference together! 🚀
 ## Professional Project Portfolio wiki
 [click to view](https://github.com/asiakay/asiakay/wiki)
 
+## New Project Ideas 
+[DiabetesEase Pro](https://github.com/asiakay/DiabetesEase-Pro)
+
 
