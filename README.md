@@ -12,7 +12,7 @@ Through dedication and staying curious, I've become a passionate developer and d
 
 - 🤖 **Tech Explorer:** I dabble in AI and ML, pushing the boundaries of what's possible with data-driven insights and automation.
 
-- 🎶 **Sound Aficionado:** When I'm not coding, you can find me in the music studio, where I produce beats with Ableton Live and FL Studio.
+- 🎶 **Sound Aficionado:** When I'm not coding, you can find me making music, where I produce beats with Ableton Live, FL Studio, and a handy ios app called, [KORG Gadget 2](https://apps.apple.com/us/app/korg-gadget-2/id791077159).
 
 - 🚀 **Let's Collaborate:** I'm always excited about new projects and collaborations. Feel free to reach out, and let's turn ideas into reality!
 
