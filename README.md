@@ -16,7 +16,7 @@ Through dedication and staying curious, I've become a passionate developer and d
 
 - 🚀 **Let's Collaborate:** I'm always excited about new projects and collaborations. Feel free to reach out, and let's turn ideas into reality!
 
-Looking forward to connecting and making a difference together! 🚀 #CodeAndCreate
+Looking forward to connecting and making a difference together! 🚀 
 
 ## Professional Project Portfolio wiki
 [click to view](https://github.com/asiakay/asiakay/wiki)
