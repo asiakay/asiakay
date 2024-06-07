@@ -20,9 +20,9 @@ Florists face manual, error-prone inventory management. Floral Flow provides a d
 
 🛠 Tech Stack:
 
-Frontend: React, Next.js
-Backend: Firebase, Node.js
-Tools: Git, GitHub, Visual Studio Code
+- Frontend: React, Next.js
+- Backend: Firebase, Node.js
+- Tools: Git, GitHub, Visual Studio Code
 
 🌍 Based in Massachusetts, USA
 
