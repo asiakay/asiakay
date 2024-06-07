@@ -1,22 +1,28 @@
 👋 Hi there! 
 
-I'm [Asia Lakay Grady](https://www.asialakay.net), an artful Full Stack Developer, Tech Project Manager, and Visual UX/UI Specialist. My passion lies in crafting user-centered designs and enhancing digital experiences. With a diverse portfolio that includes projects like [PLU Code Search](https://github.com/asiakay/Produce-PLU-Code-Search), [Black History Facts](https://github.com/asiakay/history-fact-app), [Floral Flow](https://github.com/asiakay/floralflow), [Repair Tracker Pro](https://github.com/asiakay/repair-tracker-pro), and [AsiaLakay.net](https://www.asialakay.net),  I bring empathy, creativity and technical expertise to every endeavor. 
+I'm [Asia K](https://www.asialakay.net). 
 
-Through dedication and staying curious, I've become a passionate developer and designer with a diverse skill set, and I love to bring to life impactful solutions that bridge the gap between usefulness, technology, and design. Here's a bit about me:
+Here are my custom SaaS Solutions:
 
-- 🌐 **Web Enthusiast:** Proficient in HTML, CSS, and JavaScript, crafting dynamic and responsive web applications that delight users.
+The Produce PLU Code Search app solves the problem of quickly and accurately finding PLU codes for grocery produce items, improving efficiency and reducing errors for store employees and customers.
 
-- 🔗 **Full Stack Wizard:** Skilled in Node.js, Next.js, Python, Django, and Flask, I bring ideas to life with robust backend systems and engaging frontend experiences.
+[PLU Code Search](https://github.com/asiakay/Produce-PLU-Code-Search)
 
-- 🎨 **Design Maven:** Figma is my canvas for crafting beautiful and intuitive user interfaces (UI) and creating seamless user experiences (UX).
 
-- 🤖 **Tech Explorer:** I dabble in AI and ML, pushing the boundaries of what's possible with data-driven insights and automation.
+BlackHistoryFacts addresses the pain point of widespread misinformation and underrepresentation of historically marginalized groups by providing accessible, accurate information that highlights their positive contributions and challenges systemic racism.
 
-- 🎶 **Sound Aficionado:** When I'm not coding, you can find me making music, where I produce beats with Ableton Live, FL Studio, and a handy ios app called, [KORG Gadget 2](https://apps.apple.com/us/app/korg-gadget-2/id791077159).
+[Black History Facts](https://github.com/asiakay/history-fact-app)
 
-- 🚀 **Let's Collaborate:** I'm always excited about new projects and collaborations. Feel free to reach out, and let's turn ideas into reality!
 
-Looking forward to connecting and making a difference together! 🚀 
+Florists struggle with manual, error-prone inventory management, which FloralFlow solves by providing a streamlined, digital inventory system with real-time updates and secure access, built on Next.js and Firebase.
+
+[Floral Flow](https://github.com/asiakay/floralflow)
+
+
+Repair Tracker Pro addresses manual tracking inefficiencies, lack of real-time updates, managing multiple repairs, reporting challenges, integration issues, and customer communication gaps with centralized digital tracking, real-time notifications, visual dashboards, easy report generation, seamless integration, and automatic updates.
+
+[Repair Tracker Pro](https://github.com/asiakay/repair-tracker-pro)
+
 
 ## Professional Project Portfolio wiki
 [click to view](https://github.com/asiakay/asiakay/wiki)
