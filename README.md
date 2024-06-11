@@ -1,4 +1,4 @@
-👋 Hi there! 
+👋 Hi there!
 
 I'm [Asia K](https://www.asialakay.net). 
 
@@ -28,3 +28,4 @@ Florists face manual, error-prone inventory management. Floral Flow provides a d
 
 📫 Let's connect! [LinkedIn](https://www.linkedin.com/in/asia-lakay-grady/)
 
+Through my projects and initiatives, I aim to inspire and equip people to make a positive difference in their communities. If you're interested in using art and technology to drive social change, join one of my workshops or follow my journey on social media. 
