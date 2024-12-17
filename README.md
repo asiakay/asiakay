@@ -1,8 +1,10 @@
 👋 Hi there!
 
-I'm [Asia K](https://www.asialakay.net). 
+I'm [Asia K](https://linktr.ee/asialakay)
 
-I specialize in developing SaaS solutions that tackle real-world challenges. By identifying inefficiencies and underrepresented areas, I create inclusive IT / productivity tools. 
+
+I design human-centered systems and stories that address real problems by connecting creativity, technology, and advocacy. I simplify complex ideas, amplify unheard voices, and build solutions that inspire equity, innovation, and impact.
+
 
 
 [Produce PLU Code Search](https://github.com/asiakay/Produce-PLU-Code-Search): Grocery store employees often waste time and make errors searching for produce PLU codes. This app streamlines the process, improving efficiency and accuracy.
