@@ -1,33 +1,64 @@
-👋 Hi there!
+# Hey, I’m Asia K.
 
-I'm [Asia K](https://linktr.ee/asialakay)
+I got into coding because I wanted to secure my future. Now I use it to build tools that help people solve real problems, communicate clearly, and create more freedom in their work and communities.
 
+I believe technology should empower people — not overwhelm them or leave them out. If the product is **liberation** and the service is **empowerment**, then the goal is simple: build things that actually help.
 
-I design human-centered systems and stories that address real problems by connecting creativity, technology, and advocacy. I simplify complex ideas, amplify unheard voices, and build solutions that inspire equity, innovation, and impact.
+---
 
+### What I Do
 
+- Build human-centered systems
+- Translate complex ideas into simple tools
+- Use tech for clarity, not confusion
+- Collaborate with people who care about impact
 
-[Produce PLU Code Search](https://github.com/asiakay/Produce-PLU-Code-Search): Grocery store employees often waste time and make errors searching for produce PLU codes. This app streamlines the process, improving efficiency and accuracy.
+---
 
+## Projects
 
-[BlackHistoryFacts](https://github.com/asiakay/history-fact-app): There's a significant gap in accessible, accurate information about the positive contributions of historically marginalized groups. This project challenges systemic racism and misinformation.
+#### [Policy Shift Tracker](https://github.com/asiakay/policy-shift-tracker)  
+Tracks policy changes, executive orders, and community actions — helping people stay informed and ready to act.
 
+#### [The Digital Spellbook](https://asiakay.github.io/quoteGenerator/)  
+A simple quote generator designed to disrupt, affirm, and reframe.
 
-[Floral Flow](https://github.com/asiakay/floralflow): 
-Florists face manual, error-prone inventory management. Floral Flow provides a digital, real-time solution for streamlined inventory control and secure access
+#### [BlackHistoryFacts](https://github.com/asiakay/history-fact-app)  
+A small project aimed at making Black history facts more accessible, especially stories that get left out.
 
+#### [Produce PLU Code Search](https://github.com/asiakay/Produce-PLU-Code-Search)  
+Helps grocery workers quickly find produce codes to reduce mistakes and save time.
 
+#### [Floral Flow](https://github.com/asiakay/floralflow)  
+A basic inventory tracker for florists or small shops — built to make everyday tasks easier.
 
-[Repair Tracker Pro](https://github.com/asiakay/repair-tracker-pro): Retail stores struggle with manual tracking and communication gaps in repair management. This app offers centralized tracking, real-time notifications, and visual dashboards to enhance efficiency.
+#### [Repair Tracker Pro](https://github.com/asiakay/repair-tracker-pro)  
+Simplifies repair tracking for retail — with better communication and fewer headaches.
 
-🛠 Tech Stack:
+---
 
-- Frontend: React, Next.js
-- Backend: Firebase, Node.js
-- Tools: Git, GitHub, Visual Studio Code
+## Tech Stack
 
-🌍 Based in Massachusetts, USA
+**Frontend:**  
+HTML, CSS, JavaScript, React, Next.js, Tailwind CSS  
 
-📫 Let's connect! [LinkedIn](https://www.linkedin.com/in/asia-lakay-grady/)
+**Backend:**  
+Node.js, Firebase, Express, ASP.NET, Python, Go (basic), Rust (learning)  
 
-Through my projects and initiatives, I aim to inspire and equip people to make a positive difference in their communities. If you're interested in using art and technology to drive social change, join one of my workshops or follow my journey on social media. 
+**Storage & Hosting:**  
+Cloudflare KV, Firestore, Vercel, Cloudflare Pages, Fleek  
+
+**Other:**  
+Git, GitHub, VS Code, Replit, Glitch, Docker, PWA, Web3, AI/ML  
+
+---
+
+## Connect
+
+- [Linktree](https://linktr.ee/asialakay)  
+- [Instagram](https://instagram.com/asialakay)  
+- [Substack](https://bridgedotfiles.substack.com)
+
+---
+
+> Tech can be simple. Purpose can be clear. And freedom can be built.
