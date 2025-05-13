@@ -51,4 +51,4 @@ Git, GitHub, VS Code, Replit, [Glitch](https://glitch.com/), Docker, PWA, Web3, 
 
 > Tech can be simple. Purpose can be clear. And freedom can be built.
 
-New to tech? I ❤️ [Glitch](https://glitch.com/). Get your hands in it. 
+New to tech? I ❤️ [Glitch](https://glitch.com/). Get your hands in it. Interested in tech solutions but not the code? Get into [Figma](https://www.figma.com/) for user experience(UX) research or user interface(UI) design.
