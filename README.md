@@ -17,8 +17,7 @@ I believe technology should empower people — not overwhelm them or leave them 
 
 ## Projects
 
-#### [Policy Shift Tracker](https://github.com/asiakay/policy-shift-tracker)  
-Tracks policy changes, executive orders, and community actions — helping people stay informed and ready to act.
+#### [Policy Shift Tracker](https://github.com/asiakay/policy-shift-tracker) - Tracks policy changes, executive orders, and community actions — helping people stay informed and engaged.
 
 #### [Legacy and Code](https://legacy-and-code-roxbury.pages.dev/) - Legacy & Code Roxbury is a community-driven initiative documenting and celebrating the history of Black and Brown tech innovators in Roxbury while fostering future talent through education and mentorship.
 
