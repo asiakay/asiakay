@@ -1,3 +1,14 @@
+'''
+<body>
+<div class="container">
+	<h1>You Are Here.</h1>
+	<p>The pain itself is love, it is the main iterative process, but I give it to the soul of this kind of labor.</p>
+	
+	<a href="https://docs.google.com/spreadsheets/d/1jJvErmAcJstLQ4q_vTzJ7p1d0X6pDVagGOSIhhQRAzQ/edit?usp=sharing">project list</a>
+</div>
+</body>
+"""
+
 # Hey, I’m Asia K.
 
 I got into coding because I wanted to secure my future. Now I use it to build tools that help people solve real problems, communicate clearly, and create more freedom in their work and communities.
