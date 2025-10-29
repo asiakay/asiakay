@@ -51,4 +51,14 @@ Git, GitHub, VS Code, Replit, [Glitch](https://glitch.com/), Docker, PWA, Web3, 
 
 > Tech can be simple. Purpose can be clear. And freedom can be built.
 
-New to tech? I ❤️ [Glitch](https://glitch.com/). Get your hands in it. Interested in tech solutions but not the code? Get into [Figma](https://www.figma.com/) for user experience(UX) research or user interface(UI) design.
+## 🔁 Replication Guide
+
+To reuse or audit the LLM Reasoning Kernel:
+
+1. Copy the files from `/docs` into your project root.
+2. Reference `llm_kernel.yaml` in your workflow or agent configuration.
+3. Follow the [LLM Kernel Documentation](docs/LLM_Kernel_Documentation.md) for interpretation rules, tone weighting, and pipeline logic.
+4. Cite this kernel in your projects as:
+   > “Reasoning logic follows the AsiaLakay Kernel v0.1 — see `/docs/llm_kernel.yaml`.”
+
+![Reasoning Flowchart](docs/reasoning_flowchart.png)
