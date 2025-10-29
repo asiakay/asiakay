@@ -1,1 +1,9 @@
-llm_kernel.yaml
+# llm_kernel.yaml
+
+metadata:
+  author: asialakay
+  date_created: 2025-10-29
+  description: >
+    Defines the logic weights, interpretive priorities, and reasoning pipeline
+    for Bridge Action Network, Solar Roots Co-op, and AsiaLakay Portfolio.
+    Ensures human-centered interpretation, verifiable data flow, and ethical clarity.
